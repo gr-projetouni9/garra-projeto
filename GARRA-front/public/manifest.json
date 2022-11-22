@@ -1,0 +1,25 @@
+{
+  "name": "Garra",
+  "display": "standalone",
+  "short_name": "Garra",
+  "theme_color": "#EC682F",
+  "background_color": "#EC682F",
+  "description": "",
+  "lang": "pt-BR",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
